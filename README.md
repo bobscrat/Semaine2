@@ -1,6 +1,6 @@
 # Semaine2
-Badges Codecademy
+# Badges Codecademy
 
-Vous pouvez trouver <a href="https://www.codecademy.com/fr/bobscrat">ici</a> mon profil !
+Vous pouvez trouver [ici](https://www.codecademy.com/fr/bobscrat) mon profil !
 
-Et voici mes <a href="https://www.codecademy.com/fr/users/bobscrat/achievements" alt=badges>trophées!!</a>
+Et voici mes [trophées](https://www.codecademy.com/fr/users/bobscrat/achievements) !
